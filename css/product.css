@@ -37,6 +37,6 @@
             }
 
             .product-image {
-                max-height: 250px; /* Adjust image height for mobile */
+                max-height: 150px; /* Adjust image height for mobile */
             }
         }
