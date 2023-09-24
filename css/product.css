@@ -32,11 +32,21 @@
 
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {
-            .product-card {
-                padding: 5px; /* Adjust padding for mobile */
-            }
+    .product-card {
+         padding: 5px; /* Adjust padding for mobile */
+    }
 
-            .product-image {
-                max-height: 150px; /* Adjust image height for mobile */
-            }
-        }
+    .product-image {
+        max-height: 150px; /* Adjust image height for mobile */
+    }
+}
+
+@media (min-width: 1440px) {
+    .product-card {
+        padding: 5px; /* Adjust padding for mobile */
+    }
+
+    .product-image {
+        max-height: 150px; /* Adjust image height for mobile */
+    }
+}
