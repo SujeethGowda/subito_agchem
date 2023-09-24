@@ -33,10 +33,10 @@
 /* Media Query for Mobile Devices */
 @media (max-width: 768px) {
             .product-card {
-                padding: 10px; /* Adjust padding for mobile */
+                padding: 5px; /* Adjust padding for mobile */
             }
 
             .product-image {
-                max-height: 150px; /* Adjust image height for mobile */
+                max-height: 250px; /* Adjust image height for mobile */
             }
         }
