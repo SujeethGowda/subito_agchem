@@ -37,16 +37,7 @@
     }
 
     .product-image {
-        max-height: 150px; /* Adjust image height for mobile */
+        max-height: 300px; /* Adjust image height for mobile */
     }
 }
 
-@media (min-width: 1440px) {
-    .product-card {
-        padding: 5px; /* Adjust padding for mobile */
-    }
-
-    .product-image {
-        max-height: 150px; /* Adjust image height for mobile */
-    }
-}
